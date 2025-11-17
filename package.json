@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build:tokens": "style-dictionary build"
+  },
+  "devDependencies": {
+    "style-dictionary": "^4.4.0"
+  }
+}
